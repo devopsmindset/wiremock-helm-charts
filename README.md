@@ -1,6 +1,6 @@
 ![CI](https://github.com/wiremock/helm-charts/actions/workflows/ci.yaml/badge.svg)
 
-# WireMock Helm Charts
+# WireMock Helm Charts. Trigger CI
 
 Helm Chart for WireMock deployment to Kubernetes.
 It allows deploying the official [WireMock Docker images](https://github.com/wiremock/wiremock-docker) for both WireMock 2 and WireMock 3,
